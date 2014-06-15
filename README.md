@@ -2,3 +2,10 @@ rendersketchgame
 ================
 
 @ryangreen8's Render Sketch Game: "Rules: 10 min timer. 3d Tool. Start with Cube and Plane.  Make something pretty."
+
+
+Hey Twitter, let's play a game. 
+Rules: 10 min timer. 3d Tool. Start with Cube and Plane. Make something pretty. 
+derSketchGame](https://twitter.com/search?q=%23RenderSketchGame&amp;src=hash) 
+Ryan [@ryangreen8](https://twitter.com/ryangreen8)
+[May 9, 2014](https://twitter.com/ryangreen8/statuses/464796635424641024)
