@@ -1,6 +1,8 @@
 rendersketchgame
 ================
 
+I'm a fan of Ryan Green's render sketch game, gesture drawing for 3D modeling:
+
 > Hey Twitter, let's play a game. Rules: 10 min timer. 3d Tool. Start with Cube and Plane. Make something pretty. [#RenderSketchGame](https://twitter.com/search?q=%23RenderSketchGame&amp;src=hash) 
 
 > Post your source, remix, share.
