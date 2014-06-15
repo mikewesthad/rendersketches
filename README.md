@@ -12,7 +12,7 @@ I'm a fan of Ryan Green's render sketch game, gesture drawing for 3D modeling:
 
 ## 06/14/2014: MoonLine ##
 
-First attempt at #rendersketchgame.  Below, the intended render sandwiched between two "accidents."
+First attempt at #rendersketchgame.  Below, the "intended" render sandwiched between two accidents.
 
 ![Blurred Landscape](./06_14_2014/blurscape.png)
 
