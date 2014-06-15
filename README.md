@@ -1,5 +1,4 @@
-rendersketchgame
-================
+# rendersketchgame #
 
 I'm a fan of Ryan Green's render sketch game, gesture drawing for 3D modeling:
 
@@ -9,3 +8,14 @@ I'm a fan of Ryan Green's render sketch game, gesture drawing for 3D modeling:
 
 > —Ryan [@ryangreen8](https://twitter.com/ryangreen8) on [May 9, 2014](https://twitter.com/ryangreen8/statuses/464796635424641024)
 
+
+
+## 06/14/2014: MoonLine ##
+
+First attempt at #rendersketchgame.  The intended model sandwiched between two accidental renders:
+
+![Blurred Landscape](./06_14_2014/blurscape.png)
+
+![Properly Focused](./06_14_2014/focused.png)
+
+![Oops, wrong angle](./06_14_2014/oops.png)
