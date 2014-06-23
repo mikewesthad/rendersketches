@@ -29,3 +29,10 @@ First attempt at #rendersketchgame.  The "intended" render sandwiched between tw
 This one I forgot to time.  It ran a bit over and is "cheating" since it used some [python scripts](https://github.com/mikewesthad/Extract_EverythingAddedToFood_Database) I had written to generate food labels.  Uses the "Everything Added to Food in the United States" database to fill a texture with random FDA-approved food additives.
 
 ![Eafus](./06_21_2014/eafusAisle.png)
+
+
+## 06/22/2014: Finfinity ##
+
+I can't say I'm very good at sticking to the 10 minutes thing, but I do try to minimize the just-one-more-tweak urge.  This one clocked in at 25.
+
+![finfinity](./06_22_2014/finfinity.png)
