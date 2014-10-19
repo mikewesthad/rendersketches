@@ -1,38 +1,44 @@
-# rendersketchgame #
+# rendersketching #
 
-I'm a fan of Ryan Green's render sketch game, gesture drawing for 3D modeling:
+I'm a fan of the render sketch game [tumblr](http://rendersketchgame.tumblr.com/) - "10 minute" gesture drawing for 3D modeling.
 
-> Hey Twitter, let's play a game. Rules: 10 min timer. 3d Tool. Start with Cube and Plane. Make something pretty. [#RenderSketchGame](https://twitter.com/search?q=%23RenderSketchGame&amp;src=hash) 
-
-> Post your source, remix, share.
-
-> —Ryan [@ryangreen8](https://twitter.com/ryangreen8) on [May 9, 2014](https://twitter.com/ryangreen8/statuses/464796635424641024)
-
-
+So, this is a repo of [Blender](http://www.blender.org/) sketches in that vein.
 
 ## 06/14/2014: MoonLine ##
 
-First attempt at #rendersketchgame.  The "intended" render sandwiched between two accidents:
+First attempt at #rendersketchgame.
 
-![Blurred Landscape](./06_14_2014/blurscape.png)
+![Blurred Landscape](./06_14_2014_moonline/blurscape.png)
 
-![Properly Focused](./06_14_2014/focused.png)
+![Properly Focused](./06_14_2014_moonline/focused.png)
 
-![Oops, wrong angle](./06_14_2014/oops.png)
+![Oops, wrong angle](./06_14_2014_moonline/oops.png)
 
 ## 06/19/2014: Diorama ##
 
-![Diorama](./06_19_2014/diorama.png)
+![Diorama](./06_19_2014_diorama/diorama.png)
 
 ## 06/21/2014: Eafus ##
 
-This one I forgot to time.  It ran a bit over and is "cheating" since it used some [python scripts](https://github.com/mikewesthad/Extract_EverythingAddedToFood_Database) I had written to generate food labels.  Uses the "Everything Added to Food in the United States" database to fill a texture with random FDA-approved food additives.
+Used some [python scripts](https://github.com/mikewesthad/Extract_EverythingAddedToFood_Database) I had written to generate food labels.  Uses the "Everything Added to Food in the United States" database to fill a texture with random FDA-approved food additives.
 
-![Eafus](./06_21_2014/eafusAisle.png)
+![Eafus](./06_21_2014_eafus/eafusAisle.png)
 
 
 ## 06/22/2014: Finfinity ##
 
-I can't say I'm very good at sticking to the 10 minutes thing, but I do try to minimize the just-one-more-tweak urge.  This one clocked in at 25.
+![finfinity](./06_22_2014_finfinity/finfinity.png)
 
-![finfinity](./06_22_2014/finfinity.png)
+## 10/15/2014: Softbodies ##
+
+![softbodies_34](./10_15_2014_softbodies/softbodies_34.png)
+![softbodies_35](./10_15_2014_softbodies/softbodies_35.png)
+![softbodies_36](./10_15_2014_softbodies/softbodies_36.png)
+![softbodies_37](./10_15_2014_softbodies/softbodies_37.png)
+
+[Vimeo animation](https://vimeo.com/109319201)
+
+## 10/18/2014: Snownight ##
+
+![Snownight_ManyParticles](./10_18_2014_snownight/Snownight_ManyParticles.png)
+
