@@ -45,5 +45,5 @@ Used some [python scripts](https://github.com/mikewesthad/Extract_EverythingAdde
 
 ## 10/18/2014: Pollen ##
 
-![Pollen](./01_13_2015_pollen/pollenpost.png)
+[![Pollen](./01_13_2015_pollen/pollenpost.png)](./01_13_2015_pollen/pollenpost.png)
 
