@@ -4,6 +4,10 @@ I'm a fan of the render sketch game [tumblr](http://rendersketchgame.tumblr.com/
 
 So, this is a repo of [Blender](http://www.blender.org/) sketches in that vein.
 
+## 10/18/2014: Pollen2 ##
+
+[![Pollen](./01_14_2015_pollen2/pollen2post.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_14_2015_pollen2/pollen2post.png)
+
 ## 10/18/2014: Pollen ##
 
 [![Pollen](./01_13_2015_pollen/pollenpost3.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_13_2015_pollen/pollenpost3.png)
