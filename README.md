@@ -1,3 +1,7 @@
+# OLD #
+
+New site: [http://www.mikewesthad.com/rendersketchgame](http://www.mikewesthad.com/rendersketchgame)
+
 # rendersketching #
 
 I'm a fan of the render sketch game [tumblr](http://rendersketchgame.tumblr.com/) - "10 minute" gesture drawing for 3D modeling.
