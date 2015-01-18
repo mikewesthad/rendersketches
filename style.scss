@@ -10,8 +10,10 @@
 // Syntax highlighting @import is at the bottom of this file
 
 
-
-.nogutter {
+.bottom-gutter {
+  padding-bottom: 20px;
+}
+.no-horizontal-gutter {
   padding: 0px !important;
 }
 .title {

@@ -17,8 +17,8 @@ layout: default
 		{% capture coverimagepath %}{{ site.baseurl }}/{{ post.sketchpath }}/{{ post.imagenames[0] }}{% endcapture %}
 	{% endif %}
 	
-	<figure class='col-md-4 nogutter'>
-		<a href="{{ site.baseurl }}/{{ post.url }}"><img src='{{ coverimagepath }}'></a>
+	<figure class='col-md-4 no-horizontal-gutter'>
+		<a href="{{ site.baseurl }}{{ post.url }}"><img src='{{ coverimagepath }}'></a>
 		{% comment %} Come back and add caption: <figcaption>{{ post.title }}</figcaption> {% endcomment %} 
 	</figure>
 
