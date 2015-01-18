@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<article class="post">
+	<span class="title">{{ page.title }}</span>	
+	<span class="date">{{ page.date | date: "%B %e, %Y" }}</span>
+
+	<div class="entry">
+		{{ content }}
+	</div>
+
+	{% comment %} 
+	If the page has an array of blender file names, create download links for those files. A few conditionals are added to pluralize "download" when needed and to add commas between links. 
+	{% endcomment %}
+	{% if page.blendnames %}
+		<div class="download">
+		{% if page.blendnames.size == 1  %}
+			Blender file download: 
+		{% else %}
+			Blender file downloads:
+		{% endif %}
+
+		{% for blendname in page.blendnames %}
+			{% capture blendpath %}{{ site.baseurl }}/{{ page.sketchpath }}/{{ blendname }}{% endcapture %}
+			<a href="{{ blendpath }}">[{{ forloop.index }}]</a>{% if forloop.index != forloop.length %},{% endif %}
+		{% endfor %}
+		</div>
+	{% endif %}
+
+	{% include disqus.html disqus_identifier=page.disqus_identifier %}
+</article>
