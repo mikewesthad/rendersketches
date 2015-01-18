@@ -4,11 +4,15 @@ I'm a fan of the render sketch game [tumblr](http://rendersketchgame.tumblr.com/
 
 So, this is a repo of [Blender](http://www.blender.org/) sketches in that vein.
 
-## 10/18/2014: Pollen2 ##
+## 01/17/2015: Nymmetry ##
 
-[![Pollen](./01_14_2015_pollen2/pollen2post.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_14_2015_pollen2/pollen2post.png)
+[![Nymmetry](./01_17_2015_nymmetry/nymmetry_2000samples_filterglossy1.0.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_17_2015_nymmetry/nymmetry_2000samples_filterglossy1.0.png)
 
-## 10/18/2014: Pollen ##
+## 01/14/2015: Pollen2 ##
+
+[![Pollen2](./01_14_2015_pollen2/pollen2post.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_14_2015_pollen2/pollen2post.png)
+
+## 01/13/2015: Pollen ##
 
 [![Pollen](./01_13_2015_pollen/pollenpost3.png)](https://raw.githubusercontent.com/mikewesthad/rendersketches/master/01_13_2015_pollen/pollenpost3.png)
 
