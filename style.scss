@@ -17,18 +17,15 @@
   padding: 0px !important;
 }
 .title {
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   color: $darkerGray;
-  font-weight: normal;
-
+  font-weight: 300;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-
   @include mobile {
     line-height: 1.4;
   }
-
   font-size: 28px;
   a {
     color: inherit;
@@ -38,6 +35,7 @@
 .date {
   color: $gray;
   font-size: 10px;
+  font-weight: 300;
   padding-left: 5px;
 }
 
@@ -76,12 +74,12 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $openSans;
   color: $darkGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   color: $darkerGray;
   font-weight: bold;
 
@@ -239,8 +237,8 @@ img {
   margin: 16px 0 0 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $openSans;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -258,7 +256,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   font-size: 18px;
 
   @include mobile {
@@ -272,7 +270,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
 
     @include mobile {
