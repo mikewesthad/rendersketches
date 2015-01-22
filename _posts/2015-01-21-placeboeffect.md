@@ -3,7 +3,7 @@ layout: post
 title: placebo effect
 sketchpath: sketches/01_21_2015_placeboeffect
 imagenames: 
-- placeboeffectpost.png
+- placeboeffect.png
 blendnames: 
 - placeboeffect.blend
 ---
