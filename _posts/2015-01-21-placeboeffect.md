@@ -1,11 +1,11 @@
 ---
 layout: post
-title: snownight
-sketchpath: sketches/10_18_2014_snownight
+title: placebo effect
+sketchpath: sketches/01_21_2015_placeboeffect
 imagenames: 
-- Snownight_ManyParticles_Post.png
+- placeboeffectpost.png
 blendnames: 
-- Snownight.blend
+- placeboeffect.blend
 ---
 
 {% comment %} 
